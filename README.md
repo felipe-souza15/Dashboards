@@ -53,4 +53,4 @@ Screenshots of the report pages are included in this repository for visual refer
 🧑‍💻 Author
 Felipe de Souza Lopes
 Data Analyst | Power BI Specialist
-LinkedIn (Insert your profile link)
+LinkedIn https://www.linkedin.com/in/felipesouzalopes15/
